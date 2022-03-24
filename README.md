@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zbigniew</h1>
-<h3 align="center">Father, Husband, Programmer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 - 🌱 I’m currently learning **Python**
 
